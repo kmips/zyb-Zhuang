@@ -1,0 +1,3 @@
+Template version 3.2 created on Sep 12, 2018
+
+Removed the Auto Update Feature. Will include in the next release.
